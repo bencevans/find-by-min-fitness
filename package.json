@@ -1,0 +1,30 @@
+{
+  "name": "find-by-min-fitness",
+  "version": "0.0.0",
+  "description": "Find an item in an array by evaluating the minimum fitness of each item",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencevans/%3Afind-by-min-fitness.git"
+  },
+  "keywords": [
+    "fitness",
+    "algorithm",
+    "algorithms",
+    "minimum",
+    "find",
+    "search"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (https://bencevans.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencevans/%3Afind-by-min-fitness/issues"
+  },
+  "homepage": "https://github.com/bencevans/%3Afind-by-min-fitness#readme",
+  "dependencies": {
+    "debug": "^2.2.0"
+  }
+}
