@@ -33,6 +33,6 @@ findByMinFitness(locations, (location) => {
 Check `/test.js` for more...
 
 
-## Licence
+## License
 
 MIT &copy; [Ben Evans](https://bencevans.io)
